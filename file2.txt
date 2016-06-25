@@ -1,8 +1,5 @@
 blah
 blah
 blah
-<<<<<<< HEAD
 blah
-=======
->>>>>>> master
 bloh
